@@ -11,7 +11,7 @@ import * as dat from 'dat.gui'
  * debug
  */
 
-const gui = new dat.GUI({ closed: false })
+const gui = new dat.GUI()
 
 /*
 textures
